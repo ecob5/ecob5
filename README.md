@@ -3,7 +3,7 @@
 📍 RJ, Brasil  
 📧 cristopher@tuta.io  
 📱 (24) 98155-7111  
-🔗 https://github.com/ECOB7  
+🔗 [https://github.com/ECOB7  ](https://ecob7.github.io/)
 🔗 https://linkedin.com/in/enzo-cristopher-oliveira-bittencourt-4590231bb  
 
 ---
