@@ -1,66 +1,83 @@
 # Enzo Cristopher Oliveira Bittencourt
 
-📍 RJ, Brasil  
-📧 cristopher@tuta.io  
-📱 (24) 98155-7111  
-🔗 https://ecob7.github.io/  
-🔗 https://linkedin.com/in/enzo-cristopher-oliveira-bittencourt-4590231bb  
+<div align="center">
+
+### Software Engineering Student | Python | SQL | AI & LLMs
+
+Building my path in technology through software, data, automation and AI-assisted development.
+
+</div>
 
 ---
 
-## Perfil
+## About me
 
-Estudante de Engenharia de Software com base em programação e suporte técnico. Já atuou com resolução de problemas em sistemas e manutenção, além de ter contato com desenvolvimento usando Python, Java e SQL. Interesse em crescer na área de tecnologia com foco em prática e experiência real.
-
----
-
-## Formação Acadêmica
-
-- Engenharia de Software — Universidade de Vassouras (em andamento)  
-- Técnico em Informática — Lycée Technique du Centre, Luxemburgo  
+- I am a Software Engineering student at Universidade de Vassouras.
+- I am interested in Artificial Intelligence, LLMs, automation, data and software development.
+- I use AI tools to support learning, productivity and project development.
+- I have experience with academic and personal projects using Python, SQL, HTML, CSS, APIs, Docker and Git/GitHub.
+- My current goal is to get an internship in technology and build a stronger portfolio.
 
 ---
 
-## Experiência
+## Current focus
 
-**Suporte Técnico (Estágio)**  
-Atuação direta com usuários, solucionando falhas de rede, dispositivos e sistema. Também envolvido com manutenção preventiva e diagnósticos.
-
-**Área Elétrica (Estágio)**  
-Execução de testes, manutenção e apoio na instalação de sistemas elétricos, além da leitura de projetos técnicos.
-
----
-
-## Stack
-
-**Programação:** Python, Java  
-**Banco de dados:** SQL  
-**Ferramentas:** Git, GitHub, VS Code  
-**Base complementar:** HTML, CSS, hardware, Office  
+- Python
+- SQL
+- Data Analysis
+- Generative AI and LLMs
+- AI-assisted development
+- Automation tools
+- Git, GitHub and Docker
 
 ---
 
-## Projetos e Estudos
+## Tech Stack
 
-- Criação de scripts em Python focados em lógica e resolução de problemas  
-- Exploração de aplicações híbridas com adaptação para diferentes plataformas  
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,html,css,js,java,django,flask,mysql,git,github,docker,vscode" />
 
-## Certificações
-
-- Programação em Python (Digital Learning Hub)  
-- Inglês (Centre de Formation Lucien Huss)  
+</div>
 
 ---
 
-## Idiomas
+## Projects
 
-- Francês: Intermediário (B2)  
-- Inglês: Básico (A2)  
+### Copa 2026 API
+REST API project developed with Django REST Framework, Docker and Postman testing.
+
+**Tech:** Python, Django REST, Docker, API, GitHub
 
 ---
 
-## Direcionamento
+### Academic Events Portal
+A web application created with Flask for organizing academic events, categories, speakers and event details.
 
-Interesse em oportunidades de estágio ou início de carreira onde seja possível evoluir tecnicamente, principalmente em desenvolvimento de software ou suporte a sistemas.
+**Tech:** Python, Flask, HTML, CSS
+
+---
+
+### Festival Brasil
+Front-end project focused on presenting attractions and event information in a clean and responsive interface.
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+### GameSheft
+Personal project inspired by game catalog platforms, where users can register games and track completion status.
+
+**Tech:** Web development, Docker, Git/GitHub
+
+---
+
+## Learning path
+
+```txt
+while (learning) {
+  build();
+  test();
+  automate();
+  improve();
+}
