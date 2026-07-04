@@ -42,6 +42,20 @@ Building my path in technology through software, data, automation and AI-assiste
 
 ---
 
+## AI Tools I Use
+
+<div align="center">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
+
+---
+
 ## Projects
 
 ### Copa 2026 API
@@ -72,12 +86,24 @@ Personal project inspired by game catalog platforms, where users can register ga
 
 ---
 
-## Learning path
+## GitHub Stats
 
-```txt
-while (learning) {
-  build();
-  test();
-  automate();
-  improve();
-}
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](LINK-DO-PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+
+</div>
