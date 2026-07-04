@@ -88,18 +88,6 @@ Personal project inspired by game catalog platforms, where users can register ga
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">
